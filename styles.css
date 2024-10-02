@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    background-color: #0365a5;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.header {
+    background-color: #63b1e4;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.features {
+    display: flex;
+}
+
+.feature {
+    flex: 1;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.feature-yellow {
+    background-color: #f1c40f;
+}
+
+.feature-purple {
+    background-color: #9b59b6;
+}
+
+.feature-red {
+    background-color: #e74c3c;
+}
+
+.signup {
+    background-color: #68a8d0;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
+
+.content {
+    background-color: #95a5a6;
+    padding: 60px;
+    text-align: center;
+    color: white;
+}
